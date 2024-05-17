@@ -7,7 +7,7 @@ title: T-Display-S3
 !!! warning
     The configuration for this board is under development and not finilized yet.
 
-LILYGO® T-Display-S3 ESP32-S3 1.9" ST7789 LCD Display Development Board WIFI Bluetooth5.0 Wireless Module 170*320 Resolution
+[LILYGO® T-Display-S3](https://www.lilygo.cc/products/t-display-s3) ESP32-S3 1.9" ST7789 LCD Display Development Board WIFI Bluetooth5.0 Wireless Module 170*320 Resolution
 
 T-Display-S3 is a development board whose main control chip is ESP32-S3. It is equipped with a 1.9" LCD color screen and two programmable buttons. Communication using the I8080 interface Retains the same layout design as T-Display. You can directly use ESP32S3 for USB communication or programming.
 
@@ -68,19 +68,14 @@ However, you can connect GPIOs and/or use the push buttons to integrate the devi
 
 ## Documentation
 
-
-## Documentation
-
-Please visit the Waveshare Wiki pages for more information, schematics and demo code:
+Please visit the LILYGO GitHub repository for more information, schematics and demo code:
 
 <div class="dropdown show">
     <a class="md-button md-button dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <span class="twemoji">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m19 2-5 4.5v11l5-4.5V2M6.5 5C4.55 5 2.45 5.4 1 6.5v14.66c0 .25.25.5.5.5.1 0 .15-.07.25-.07 1.35-.65 3.3-1.09 4.75-1.09 1.95 0 4.05.4 5.5 1.5 1.35-.85 3.8-1.5 5.5-1.5 1.65 0 3.35.31 4.75 1.06.1.05.15.03.25.03.25 0 .5-.25.5-.5V6.5c-.6-.45-1.25-.75-2-1V19c-1.1-.35-2.3-.5-3.5-.5-1.7 0-4.15.65-5.5 1.5V6.5C10.55 5.4 8.45 5 6.5 5z"></path></svg>
-    </span> Waveshare Wiki </a>
+    </span> LILYGO GitHub repository </a>
     <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-        <a class="dropdown-item md-typeset__table" target="_blank" href="http://www.waveshare.com/wiki/2.8inch_TFT_Touch_Shield">TFT Touch Shield 2.8" Rev 2.1</a>
-        <a class="dropdown-item md-typeset__table" target="_blank" href="https://www.waveshare.com/wiki/3.5inch_TFT_Touch_Shield">TFT Touch Shield 3.5"</a>
-        <a class="dropdown-item md-typeset__table" target="_blank" href="https://www.waveshare.com/wiki/4inch_TFT_Touch_Shield">TFT Touch Shield 4.0"</a>
+        <a class="dropdown-item md-typeset__table" target="_blank" href="https://github.com/Xinyuan-LilyGO/T-Display-S3">LILYGO® T-Display-S3</a>
     </div>
 </div>
 
